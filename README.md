@@ -1,16 +1,13 @@
-### Hi there 👋
+Bing AI is a feature of the Bing search engine that leverages the same technology as ChatGPT to provide more useful search results and perform other functions.
 
-<!--
-**bing-chat-openai/bing-chat-openai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [bing AI](https://sites.google.com/view/bingai/)
 
-Here are some ideas to get you started:
+* [How to create a Microsoft account](https://github.com/bing-chat-openai/How-to-create-a-Microsoft-account)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [How-to-Create-your-account-on-ChatGPT](https://github.com/bing-chat-openai/How-to-Create-your-account-on-ChatGPT)
+
+* [How-to-use-Bing-ai](https://github.com/bing-chat-openai/How-to-use-Bing-ai)
+
+* [bing Chat AI](https://sites.google.com/view/bing-chat-ai/)
+
+* [How-to-use-Bing-AI-Image-Creator](https://github.com/bing-chat-openai/How-to-use-Bing-AI-Image-Creator)
